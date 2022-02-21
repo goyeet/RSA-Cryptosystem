@@ -85,7 +85,3 @@ Remove all files that are compiler generated with:
 ```
 make clean
 ```
-
-## Known Issues
-
-None
