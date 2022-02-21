@@ -1,6 +1,7 @@
 # RSA Cryptosystem
 
-NOTE: This program is adapted from a Computer Systems and C Programming assignment.
+NOTE: This program is adapted from a Computer Systems and C Programming assignment.\
+(Header files provided by Professor)
 
 This C program contains code for a key generator which produces RSA public and private key pairs,
 an encryptor which encrypts files using a public key, and a decryptor which decrypts encrypted
